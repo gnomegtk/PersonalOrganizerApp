@@ -27,7 +27,6 @@ The Personal Organizer App is a Java-based desktop application designed to help 
 
 ## Interface Demonstrations
 - **Screenshots:**  
-  (Place your screenshots in a folder named `/screenshots` and list them here.)
   - ![Main Screen](screenshots/main_screen.png)
   - ![Calendar View](screenshots/calendar_view.png)
 
